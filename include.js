@@ -5947,9 +5947,9 @@ let cards = [
     githubLink: 'https://github.com/Pmakaju'
   },
   {
-    artName: 'Pendulam',
-    pageLink: './Art/Pendulam/index.html',
-    imageLink: './Art/Pendulam/swinging_pendulam.gif',
+    artName: 'Pendulum',
+    pageLink: './Art/Pendulum/index.html',
+    imageLink: './Art/Pendulam/swinging_pendulum.gif',
     author: 'Dinesh',
     githubLink: 'https://github.com/dinesh-729'
   }
